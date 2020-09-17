@@ -1,4 +1,4 @@
-se image
+
     FROM python:3.8-alpine
 
     # copy all files from dir with Dockerfile and requirements.txt to /app folder in image
